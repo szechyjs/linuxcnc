@@ -1,4 +1,4 @@
-linuxcnc (1:2.7.12) unstable; urgency=medium
+linuxcnc (1:2.7.12~xenial1) unstable; urgency=medium
 
   * docs: clean up net commands in orient docs
   * docs: fix hyphen/minus confusion in manpages
