@@ -166,7 +166,7 @@ Debian-7.*|Raspbian-7) # Wheezy
         PYTHON_PACKAGING=dh_pysupport
 	TCLTK_VERSION=8.5
 	;;
-Ubuntu-1[456].*|LinuxMint-1[78]*) # Trusty through Xenial, LinuxMint 17 and 18
+Ubuntu-1[4568].*|LinuxMint-1[78]*) # Trusty through Bionic, LinuxMint 17 and 18
 	;;
 Ubuntu-1[12].*) # Natty Narwhal, Precise Pangolin (LTS), Quantal Quetzal
         EXTRA_BUILD=libgnomeprintui2.2-dev
