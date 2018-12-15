@@ -98,6 +98,7 @@ Ubuntu-18.*) # Bionic (LTS)
     EXTRA_BUILD=dvipng,texlive-extra-utils,texlive-latex-recommended,texlive-fonts-recommended,ghostscript,imagemagick,texlive-font-utils,module-init-tools,dh-python,asciidoc-dblatex
     TCLTK_VERSION=8.6
     PYTHON_PACKAGING=dh_python2
+    PYTHON_GST=python-gst-1.0,gstreamer1.0-plugins-base
     ;;
 Ubuntu-16.*) # Xenial (LTS)
     EXTRA_BUILD=dvipng,texlive-extra-utils,texlive-latex-recommended,texlive-fonts-recommended,ghostscript,imagemagick,texlive-font-utils,module-init-tools,dh-python
