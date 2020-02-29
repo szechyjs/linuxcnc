@@ -1,4 +1,4 @@
-linuxcnc (1:2.7.15) unstable; urgency=medium
+linuxcnc (1:2.7.15~xenial1) unstable; urgency=medium
 
   * gaxis: use the theme that was made for it
   * gmoccapy: fix unit change behavior (G20/G21)
@@ -94,7 +94,7 @@ linuxcnc (1:2.7.15) unstable; urgency=medium
 
  -- Sebastian Kuzminsky <seb@highlab.com>  Thu, 02 Jan 2020 11:59:23 -0700
 
-linuxcnc (1:2.7.14) unstable; urgency=medium
+linuxcnc (1:2.7.14~xenial1) unstable; urgency=medium
 
   * docs: improve motion.requested-vel description
 
@@ -107,7 +107,7 @@ linuxcnc (1:2.7.14) unstable; urgency=medium
 
  -- Sebastian Kuzminsky <seb@highlab.com>  Mon, 18 Jun 2018 12:22:48 -0600
 
-linuxcnc (1:2.7.13) unstable; urgency=medium
+linuxcnc (1:2.7.13~xenial1) unstable; urgency=medium
 
   * docs: correct g33.1 warning and text
   * docs: describe motion.program-line in motion manpage
@@ -153,7 +153,7 @@ linuxcnc (1:2.7.13) unstable; urgency=medium
 
  -- Sebastian Kuzminsky <seb@highlab.com>  Tue, 08 May 2018 21:12:41 -0600
 
-linuxcnc (1:2.7.12) unstable; urgency=medium
+linuxcnc (1:2.7.12~xenial1) unstable; urgency=medium
 
   * docs: clean up net commands in orient docs
   * docs: fix hyphen/minus confusion in manpages
