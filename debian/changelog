@@ -1,4 +1,4 @@
-linuxcnc (1:2.7.15~xenial1) unstable; urgency=medium
+linuxcnc (1:2.7.15~xenial1) xenial; urgency=medium
 
   * gaxis: use the theme that was made for it
   * gmoccapy: fix unit change behavior (G20/G21)
